@@ -1,0 +1,3 @@
+﻿  vezba5.c
+vezba5.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Project.vcxproj -> D:\RA59\ORM2\Vezba5\Pcap-Project\Project\.\Debug\Project.exe

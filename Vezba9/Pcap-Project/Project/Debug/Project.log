@@ -1,0 +1,7 @@
+﻿  vezba9.c
+vezba9.c(116): warning C4090: 'function': different 'const' qualifiers
+vezba9.c(116): warning C4028: formal parameter 2 different from declaration
+vezba9.c(116): warning C4028: formal parameter 3 different from declaration
+vezba9.c(124): warning C4018: '<': signed/unsigned mismatch
+vezba9.c(130): warning C4018: '<': signed/unsigned mismatch
+LINK : fatal error LNK1104: cannot open file '.\Debug\Project.exe'

@@ -1,0 +1,4 @@
+﻿  vezba10.c
+vezba10.c(209): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+  Project.vcxproj -> D:\RA59\ORM2\Vezba10\Pcap-Project\Project\.\Debug\Project.exe
+  Project.vcxproj -> .\Debug\Project.pdb (Full PDB)
